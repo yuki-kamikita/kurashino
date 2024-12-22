@@ -1,15 +1,4 @@
-// assets/css/layout.scss
-
-// 変数定義
-$max-width: 1200px;
-$sm-breakpoint: 600px;
-
-// ミックスイン
-@mixin respond-to-sm {
-    @media (max-width: #{$sm-breakpoint}) {
-        @content;
-    }
-}
+@use 'variables' as vars;
 
 // 全体スタイル
 body {
@@ -31,7 +20,7 @@ header {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        max-width: $max-width;
+        max-width: vars.$max-width;
         margin: 0 auto;
         padding: 0.75rem 1rem;
         box-sizing: border-box;
@@ -76,7 +65,7 @@ header {
         }
 
         // スマホ時はハンバーガーを左、タイトル中央、カテゴリ非表示
-        @include respond-to-sm {
+        @include vars.respond-to-sm {
             justify-content: center;
 
             .header-categories {
@@ -159,7 +148,7 @@ header {
 
 // メインコンテナ
 .container {
-    max-width: $max-width;
+    max-width:vars.$max-width ;
     margin: 0 auto;
     padding: 1rem;
     background: none;
@@ -177,7 +166,7 @@ header {
     box-sizing: border-box;
 
     .footer-inner {
-        max-width: $max-width;
+        max-width: vars.$max-width;
         margin: 0 auto;
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -235,12 +224,12 @@ header {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 1rem;
-    max-width: $max-width;
+    max-width: vars.$max-width;
     margin: 0 auto;
     padding: 1rem;
     box-sizing: border-box;
 
-    @media (max-width: #{$sm-breakpoint}px) {
+    @media (max-width: #{vars.$sm-breakpoint}px) {
         grid-template-columns: 1fr;
     }
 }

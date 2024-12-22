@@ -1,0 +1,8 @@
+$max-width: 1200px;
+$sm-breakpoint: 600px;
+
+@mixin respond-to-sm {
+  @media (max-width: #{$sm-breakpoint}) {
+    @content;
+  }
+}

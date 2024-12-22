@@ -1,4 +1,4 @@
-/* assets/css/markdown.css */
+@use 'variables' as vars;
 
 /* 全体 */
 .markdown-body {
@@ -152,12 +152,17 @@
 
 /* 画像 */
 .markdown-body img {
-    max-width: 100%;
-    height: auto;
     display: block;
     margin: 1rem auto;
-    border-radius: 5px;
-}
+    border-radius: 8px;
+    height: auto;
+    width: auto;
+    max-width: 600px;
+  
+    @include vars.respond-to-sm {
+      max-width: 100%;
+    }
+  }
 
 /* テーブル */
 .markdown-body table {

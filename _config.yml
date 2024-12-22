@@ -5,6 +5,7 @@ description: >-
 baseurl: "/kurashino"
 url: "https://yuki-kamikita.github.io"
 permalink: /:categories/:title.html
+base_image_path: "/kurashino/assets/images/"
 author: yuki_kamikita
 
 plugins:
