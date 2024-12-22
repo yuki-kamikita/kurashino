@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>暮らしの手順書</title>
+  <link rel="stylesheet" href="/kurashino/assets/css/main.css">
+  <link rel="alternate" type="application/rss+xml" title="暮らしの手順書"
+    href="https://yuki-kamikita.github.io/kurashino/feed.xml">
+  <!-- Material Web -->
+  <!-- <script type="importmap">
+      {
+        "imports": {
+          "@material/web/": "https://esm.run/@material/web/"
+        }
+      }
+    </script>
+  <script type="module">
+    import '@material/web/all.js';
+    document.adoptedStyleSheets.push(typescaleStyles.styleSheet);
+  </script> -->
+</head>
+
+<body>
+  <!-- Header -->
+  <header>
+    <div class="header-inner">
+      <a href="/kurashino/" class="brand-logo">暮らしの手順書</a>
+      <ul class="header-categories">
+        
+        <li>
+          <a href="/kurashino/category/住居">
+            住居
+          </a>
+        </li>
+        
+        <li>
+          <a href="/kurashino/category/食事">
+            食事
+          </a>
+        </li>
+        
+        <li>
+          <a href="/kurashino/category/仕事">
+            仕事
+          </a>
+        </li>
+        
+        <li>
+          <a href="/kurashino/category/趣味">
+            趣味
+          </a>
+        </li>
+        
+      </ul>
+      <button class="menu-button" aria-label="Open menu">&#9776;</button>
+    </div>
+  </header>
+
+  <!-- ドロワーメニュー（モバイル用） -->
+  <div class="drawer-overlay"></div>
+  <div class="drawer">
+    <div class="drawer-header">
+      <span>暮らしの手順書</span>
+      <button class="drawer-close" aria-label="Close menu">&times;</button>
+    </div>
+    <ul class="drawer-categories">
+      
+      <li>
+        <a href="/kurashino/category/住居">
+          住居
+        </a>
+      </li>
+      
+      <li>
+        <a href="/kurashino/category/食事">
+          食事
+        </a>
+      </li>
+      
+      <li>
+        <a href="/kurashino/category/仕事">
+          仕事
+        </a>
+      </li>
+      
+      <li>
+        <a href="/kurashino/category/趣味">
+          趣味
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+
+  <!-- Main Content -->
+  <main class="container markdown-body">
+    <nav class="breadcrumb">
+    <a href="/kurashino/">Home</a>
+    
+    <span> > </span>
+    <span>マークダウン確認用</span>
+</nav>
+
+
+<div class="post-tags">
+    
+</div>
+
+
+<div class="markdown-body">
+    <h1 id="h1-概要">H1 概要</h1>
+<p>ここに概要を書く想定</p>
+
+<h2 id="h2-リスト">H2 リスト</h2>
+<ul>
+  <li>大
+    <ul>
+      <li>中
+        <ul>
+          <li>小</li>
+          <li>小２</li>
+        </ul>
+      </li>
+      <li>中２</li>
+    </ul>
+  </li>
+  <li>大２</li>
+</ul>
+
+<h3 id="h3-チェックボックス">H3 チェックボックス</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />済み</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />未完
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />aaああ</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />bb</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="h4-コードブロック">H4 コードブロック</h4>
+<p>あああ</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>被ってるな？？？
+コードブロック
+code block
+val test = "string"
+if (true) {
+    true
+}
+</code></pre></div></div>
+
+<h5 id="h5-引用">H5 引用</h5>
+<blockquote>
+  <p>引用<br />
+aaa</p>
+</blockquote>
+
+<blockquote>
+  <p>[!NOTE]
+Useful information that users should know, even when skimming content.</p>
+</blockquote>
+
+<blockquote>
+  <p>[!TIP]
+Helpful advice for doing things better or more easily.</p>
+</blockquote>
+
+<blockquote>
+  <p>[!IMPORTANT]
+Key information users need to know to achieve their goal.</p>
+</blockquote>
+
+<blockquote>
+  <p>[!WARNING]
+Urgent info that needs immediate user attention to avoid problems.</p>
+</blockquote>
+
+<blockquote>
+  <p>[!CAUTION]
+Advises about risks or negative outcomes of certain actions.</p>
+</blockquote>
+
+<hr />
+
+<p><em>強調</em><br />
+強調</p>
+
+</div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="page-footer">
+    <div class="footer-inner">
+      <div class="footer-section">
+        <h5>About</h5>
+        <p>日々の生活の記録   書かれていることはすべて個人の見解です</p>
+      </div>
+      <div class="footer-section">
+        <h5>Links</h5>
+        <ul>
+          <li><a href="/kurashino/feed.xml">RSS Feed</a></li>
+          <li><a href="/kurashino/privacy-policy">Privacy Policy</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-copy">
+      © 2024 暮らしの手順書
+    </div>
+  </footer>
+
+  <script src="/kurashino/assets/js/drawer.js"></script>
+  <script src="/kurashino/assets/js/admonitions.js"></script>
+</body>
+
+</html>
