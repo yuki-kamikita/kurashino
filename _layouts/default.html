@@ -28,9 +28,9 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 
   <!-- もしフロントマターに image: "xxx.jpg" があれば優先 -->
-  {% if page.image %}
-    <meta property="og:image" content="{{ site.url }}{{ site.base_image_path }}{{ page.image }}" />
-    <meta name="twitter:image" content="{{ site.url }}{{ site.base_image_path }}{{ page.image }}" />
+  {% if page.ogp_image %}
+    <meta property="og:image" content="{{ site.url }}{{ site.base_image_path }}{{ page.ogp_image }}" />
+    <meta name="twitter:image" content="{{ site.url }}{{ site.base_image_path }}{{ page.ogp_image }}" />
   {% else %}
     <!-- デフォルト画像を指定 -->
     <meta property="og:image" content="{{ site.url }}{{ site.base_image_path }}default.jpg" />
