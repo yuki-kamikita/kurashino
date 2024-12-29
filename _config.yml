@@ -12,6 +12,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-sitemap
 
 markdown: kramdown
 
