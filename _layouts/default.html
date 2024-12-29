@@ -20,6 +20,27 @@
     import '@material/web/all.js';
     document.adoptedStyleSheets.push(typescaleStyles.styleSheet);
   </script> -->
+
+  <!-- OGP / Twitter Cards -->
+  <meta property="og:title" content="{{ page.title | escape }}"/>
+  <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 160 | escape }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+
+  <!-- もしフロントマターに image: "xxx.jpg" があれば優先 -->
+  {% if page.image %}
+    <meta property="og:image" content="{{ site.url }}{{ site.base_image_path }}{{ page.image }}" />
+    <meta name="twitter:image" content="{{ site.url }}{{ site.base_image_path }}{{ page.image }}" />
+  {% else %}
+    <!-- デフォルト画像を指定 -->
+    <meta property="og:image" content="{{ site.url }}{{ site.base_image_path }}default.jpg" />
+    <meta name="twitter:image" content="{{ site.url }}{{ site.base_image_path }}default.jpg" />
+  {% endif %}
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ page.title | escape }}">
+  <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 140 | escape }}">
+
 </head>
 
 <body>
