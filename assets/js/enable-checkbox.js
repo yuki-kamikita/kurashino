@@ -1,16 +1,25 @@
 // チェックボックスをブラウザ上で変更可能にする
 document.addEventListener('DOMContentLoaded', () => {
-    // Markdownのタスクリストで生成されたチェックボックスを取得
-    const checkboxes = document.querySelectorAll('.task-list-item input[type="checkbox"]');
+    // タスクリストの<li>要素をすべて取得
+    const tasks = document.querySelectorAll('li.task-list-item');
+    tasks.forEach(item => {
+      const checkbox = item.querySelector('input[type="checkbox"]');
+      // チェックボックスがない行は無視
+      if (!checkbox) return;
   
-    checkboxes.forEach(checkbox => {
-      // disabled属性が付いていれば削除
-      if (checkbox.hasAttribute('disabled')) {
-        checkbox.removeAttribute('disabled');
-      }
+      // デフォルトでdisabledが付いている場合は外す
+      checkbox.removeAttribute('disabled');
   
-      // 見た目操作しやすいよう cursor: pointer; を追加
-      checkbox.style.cursor = "pointer";
+      // リストアイテム全体をクリック時にチェック切り替え
+      item.style.cursor = 'pointer';
+      item.addEventListener('click', e => {
+        // もしクリック対象がまさにチェックボックスだったら、そのままブラウザ標準動作
+        if (e.target === checkbox) {
+          return;
+        }
+        // それ以外の要素をクリックしたらチェックを反転
+        checkbox.checked = !checkbox.checked;
+      });
     });
   });
   
