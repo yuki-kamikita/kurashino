@@ -6,9 +6,6 @@
     <p>カテゴリ: {{ post.categories | join: ", " }}</p>
     {% endif %}
     <p>
-      {% if post.ogp_image %}
-      <img src="{{ site.base_image_path }}{{ post.ogp_image }}" alt="{{ post.title }}" />
-      {% endif %}
       {{ post.excerpt }}
     </p>
   </div>
