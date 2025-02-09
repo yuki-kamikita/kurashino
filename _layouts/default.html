@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="robots" content="index, follow"> 
+  <meta name="robots" content="index, follow">
   <!-- TODO: 説明入れる -->
   <!-- <meta name="description" content="" /> -->
   <title>{{ site.title }}</title>
@@ -25,24 +25,29 @@
   </script> -->
 
   <!-- OGP / Twitter Cards -->
-  <meta property="og:title" content="{{ page.title | escape }}"/>
+  <meta property="og:title" content="{{ page.title | escape }}" />
   <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 160 | escape }}" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 
   <!-- もしフロントマターに image: "xxx.jpg" があれば優先 -->
   {% if page.ogp_image %}
-    <meta property="og:image" content="{{ site.url }}{{ site.base_image_path }}{{ page.ogp_image }}" />
-    <meta name="twitter:image" content="{{ site.url }}{{ site.base_image_path }}{{ page.ogp_image }}" />
+  <meta property="og:image" content="{{ site.url }}{{ site.base_image_path }}{{ page.ogp_image }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ site.base_image_path }}{{ page.ogp_image }}" />
   {% else %}
-    <!-- デフォルト画像を指定 -->
-    <meta property="og:image" content="{{ site.url }}{{ site.base_image_path }}default.jpg" />
-    <meta name="twitter:image" content="{{ site.url }}{{ site.base_image_path }}default.jpg" />
+  <!-- デフォルト画像を指定 -->
+  <meta property="og:image" content="{{ site.url }}{{ site.base_image_path }}default.jpg" />
+  <meta name="twitter:image" content="{{ site.url }}{{ site.base_image_path }}default.jpg" />
   {% endif %}
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ page.title | escape }}">
   <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 140 | escape }}">
+
+  <!-- PWA対応 -->
+  <link rel="manifest" href="/manifest.json">
+  <!-- TODO: ダークモード対応 -->
+  <meta name="theme-color" content="#415F91">
 
 </head>
 
@@ -110,6 +115,20 @@
   <script src="{{ site.baseurl }}/assets/js/drawer.js"></script>
   <script src="{{ site.baseurl }}/assets/js/admonitions.js"></script>
   <script src="{{ site.baseurl }}/assets/js/enable-checkbox.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('/service-worker.js')
+          .then(function (registration) {
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+          })
+          .catch(function (error) {
+            console.log('ServiceWorker registration failed:', error);
+          });
+      });
+    }
+  </script>
+
 </body>
 
 </html>
