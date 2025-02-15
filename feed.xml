@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://yuki-kamikita.github.io/kurashino/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yuki-kamikita.github.io/kurashino/" rel="alternate" type="text/html" /><updated>2025-02-15T13:54:59+00:00</updated><id>https://yuki-kamikita.github.io/kurashino/feed.xml</id><title type="html">暮らしの手順書</title><subtitle>日々の生活の記録   書かれていることはすべて個人の見解です</subtitle><author><name>yuki_kamikita</name></author><entry><title type="html">麻婆茄子</title><link href="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E9%BA%BB%E5%A9%86%E8%8C%84%E5%AD%90.html" rel="alternate" type="text/html" title="麻婆茄子" /><published>2025-02-15T11:00:00+00:00</published><updated>2025-02-15T11:00:00+00:00</updated><id>https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E9%BA%BB%E5%A9%86%E8%8C%84%E5%AD%90</id><content type="html" xml:base="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E9%BA%BB%E5%A9%86%E8%8C%84%E5%AD%90.html"><![CDATA[<p><img src="/kurashino/assets/images/mabonasu.jpg" alt="麻婆茄子" /></p>
+
+<h1 id="食材">食材</h1>
+<h3 id="メイン">メイン</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ひき肉</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />なす</li>
+</ul>
+
+<h3 id="アレンジ">アレンジ</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ピーマン</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />にんじん</li>
+</ul>
+
+<h1 id="調味料">調味料</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />豆板醬</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />甜麵醬
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />味噌</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />醤油</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />砂糖</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ごま油</li>
+    </ul>
+  </li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ごま油</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />酒</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />鶏がらスープの素</li>
+</ul>
+
+<h1 id="薬味">薬味</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />生姜</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />にんにく</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />小口ねぎ</li>
+</ul>
+
+<p><img src="/kurashino/assets/images/mabonasu_food.jpg" alt="麻婆茄子_食材" /></p>
+
+<h1 id="調理法">調理法</h1>
+<ol>
+  <li><strong>なす</strong>、<strong>その他野菜</strong>を細長く切る</li>
+  <li><strong>水溶き片栗粉</strong>を作る</li>
+  <li><strong>野菜</strong>を軽く炒め、取り出す</li>
+  <li><strong>ひき肉</strong>、<strong>酒</strong>、<strong>豆板醤</strong>、<strong>にんにく</strong>、<strong>生姜</strong>で炒める</li>
+  <li><strong>野菜</strong>を戻し、<strong>甜麵醬</strong>、<strong>鶏がらスープの素</strong>で味をつける</li>
+  <li><strong>水溶き片栗粉</strong>を加え、とろみをつける</li>
+</ol>]]></content><author><name>yuki_kamikita</name></author><category term="食事" /><category term="ひき肉" /><category term="なす" /><category term="豆板醤" /><category term="甜麵醬" /><category term="片栗粉" /><category term="生姜" /><category term="中華料理" /><category term="主菜" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">回鍋肉</title><link href="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E5%9B%9E%E9%8D%8B%E8%82%89.html" rel="alternate" type="text/html" title="回鍋肉" /><published>2025-02-14T04:00:00+00:00</published><updated>2025-02-14T04:00:00+00:00</updated><id>https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E5%9B%9E%E9%8D%8B%E8%82%89</id><content type="html" xml:base="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E5%9B%9E%E9%8D%8B%E8%82%89.html"><![CDATA[<p><img src="/kurashino/assets/images/hoikoro.jpg" alt="回鍋肉" /></p>
+
+<h1 id="食材">食材</h1>
+<h3 id="メイン">メイン</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />豚肉</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />きゃべつ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ピーマン</li>
+</ul>
+
+<h3 id="アレンジ">アレンジ</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />なす</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ねぎ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />にんじん</li>
+</ul>
+
+<h1 id="調味料">調味料</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />豆板醬</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />甜麵醬
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />味噌</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />醤油</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />砂糖</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ごま油</li>
+    </ul>
+  </li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ごま油</li>
+</ul>
+
+<h1 id="薬味">薬味</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />にんにく</li>
+</ul>
+
+<p><img src="/kurashino/assets/images/hoikoro_food.jpg" alt="回鍋肉_食材" /></p>
+
+<h1 id="調理法">調理法</h1>
+<ol>
+  <li><strong>豚肉</strong>、<strong>きゃべつ</strong>、<strong>ピーマン</strong>を大きめに切る</li>
+  <li><strong>野菜</strong>を軽く炒め、取り出す</li>
+  <li><strong>豚肉</strong>、<strong>酒</strong>、<strong>豆板醤</strong>、<strong>にんにく</strong>で炒める</li>
+  <li><strong>野菜</strong>を戻し、<strong>甜麵醬</strong>で味をつける</li>
+</ol>
+
+<h1 id="似た料理">似た料理</h1>
+<ul>
+  <li></li>
+</ul>]]></content><author><name>yuki_kamikita</name></author><category term="食事" /><category term="豚肉" /><category term="きゃべつ" /><category term="ピーマン" /><category term="甜麵醬" /><category term="豆板醤" /><category term="中華料理" /><category term="主菜" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">豚バラミルフィーユ鍋</title><link href="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E8%B1%9A%E3%83%90%E3%83%A9%E3%83%9F%E3%83%AB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%A6%E9%8D%8B.html" rel="alternate" type="text/html" title="豚バラミルフィーユ鍋" /><published>2025-02-12T11:00:00+00:00</published><updated>2025-02-12T11:00:00+00:00</updated><id>https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E8%B1%9A%E3%83%90%E3%83%A9%E3%83%9F%E3%83%AB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%A6%E9%8D%8B</id><content type="html" xml:base="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E8%B1%9A%E3%83%90%E3%83%A9%E3%83%9F%E3%83%AB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%A6%E9%8D%8B.html"><![CDATA[<p><img src="/kurashino/assets/images/pork_millefeuille.jpg" alt="豚ミルフィーユ" /></p>
+
+<h1 id="食材">食材</h1>
+<h3 id="メイン">メイン</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />豚バラ肉</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />白菜</li>
+</ul>
+
+<h3 id="アレンジ">アレンジ</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />なす</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />えのき</li>
+</ul>
+
+<h1 id="調味料">調味料</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ポン酢</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />だし
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />和風だし</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />鶏がらスープの素</li>
+    </ul>
+  </li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />酒</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />塩</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />醤油</li>
+</ul>
+
+<h1 id="薬味">薬味</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />生姜</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ねぎ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ごま</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />もみじおろし</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />大根おろし</li>
+</ul>
+
+<p><img src="/kurashino/assets/images/pork_millefeuille_food.jpg" alt="豚ミルフィーユ_食材" /></p>
+
+<h1 id="調理法">調理法</h1>
+<ol>
+  <li><strong>白菜</strong>、<strong>豚バラ肉</strong>を交互に挟む</li>
+  <li>5cm程度に切り揃える</li>
+  <li>5cmを縦にして鍋に敷き詰める
+    <ul>
+      <li>なるべく鍋が埋まるようにすると良い</li>
+    </ul>
+  </li>
+  <li><strong>水</strong>、<strong>酒</strong>、<strong>だし</strong>を加える</li>
+  <li>弱火で10~30分程度、柔らかくなるまで煮込む</li>
+  <li>お好みで<strong>ポン酢</strong>、<strong>生姜</strong>、<strong>もみじおろし</strong>などで食べる</li>
+</ol>]]></content><author><name>yuki_kamikita</name></author><category term="食事" /><category term="豚肉" /><category term="白菜" /><category term="ポン酢" /><category term="だし" /><category term="ねぎ" /><category term="なす" /><category term="生姜" /><category term="ポン酢" /><category term="だし" /><category term="酒" /><category term="和食" /><category term="主菜" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">豚の生姜焼き</title><link href="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E8%B1%9A%E3%81%AE%E7%94%9F%E5%A7%9C%E7%84%BC%E3%81%8D.html" rel="alternate" type="text/html" title="豚の生姜焼き" /><published>2025-02-11T10:00:00+00:00</published><updated>2025-02-11T10:00:00+00:00</updated><id>https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E8%B1%9A%E3%81%AE%E7%94%9F%E5%A7%9C%E7%84%BC%E3%81%8D</id><content type="html" xml:base="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E8%B1%9A%E3%81%AE%E7%94%9F%E5%A7%9C%E7%84%BC%E3%81%8D.html"><![CDATA[<p><img src="/kurashino/assets/images/syouga.jpg" alt="豚の生姜焼き" /></p>
+
+<h1 id="食材">食材</h1>
+<h3 id="メイン">メイン</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />豚肉</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />玉ねぎ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />きゃべつ</li>
+</ul>
+
+<h3 id="アレンジ">アレンジ</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />なす</li>
+</ul>
+
+<h1 id="調味料">調味料</h1>
+<h3 id="調理時">調理時</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />醤油</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />砂糖</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />みりん</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />酒</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />生姜</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />にんにく</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ごま油</li>
+</ul>
+
+<h3 id="食べるとき">食べるとき</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />マヨネーズ</li>
+</ul>
+
+<p><img src="/kurashino/assets/images/syouga_food.jpg" alt="豚の生姜焼き" /></p>
+
+<h1 id="調理法">調理法</h1>
+<ol>
+  <li>(薄切り、バラの場合)<strong>豚肉</strong>を一口サイズに切る</li>
+  <li><strong>玉ねぎ</strong>を3mm程度に切る</li>
+  <li><strong>きゃべつ</strong>を千切りにする</li>
+  <li><strong>豚肉</strong>、<strong>玉ねぎ</strong>を炒める</li>
+  <li>マヨネーズ以外の<strong>調味料</strong>を入れる</li>
+  <li><strong>キャベツの千切り</strong>の上に盛り付ける</li>
+  <li>お好みで<strong>マヨネーズ</strong>をつけて食べる</li>
+</ol>
+
+<h1 id="合わせやすい料理">合わせやすい料理</h1>
+<ul>
+  <li>味噌汁</li>
+  <li>漬物</li>
+</ul>]]></content><author><name>yuki_kamikita</name></author><category term="食事" /><category term="豚肉" /><category term="きゃべつ" /><category term="玉ねぎ" /><category term="醤油" /><category term="砂糖" /><category term="みりん" /><category term="酒" /><category term="生姜" /><category term="マヨネーズ" /><category term="和食" /><category term="主菜" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">親子丼</title><link href="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E8%A6%AA%E5%AD%90%E4%B8%BC.html" rel="alternate" type="text/html" title="親子丼" /><published>2025-02-06T03:00:00+00:00</published><updated>2025-02-06T03:00:00+00:00</updated><id>https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E8%A6%AA%E5%AD%90%E4%B8%BC</id><content type="html" xml:base="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E8%A6%AA%E5%AD%90%E4%B8%BC.html"><![CDATA[<p><img src="/kurashino/assets/images/oyako.jpg" alt="親子丼" /></p>
+
+<h1 id="食材">食材</h1>
+<h3 id="メイン">メイン</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />鶏肉</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />卵</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />玉ねぎ</li>
+</ul>
+
+<h1 id="調味料">調味料</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />醤油</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />みりん</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />砂糖</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />酒</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />めんつゆ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />だし</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />塩</li>
+</ul>
+
+<h1 id="薬味">薬味</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />三つ葉</li>
+</ul>
+
+<h1 id="調理法">調理法</h1>
+<ol>
+  <li><strong>鶏肉</strong>を小さめに切り、塩系で下味をつける</li>
+  <li><strong>玉ねぎ</strong>を切る</li>
+  <li><strong>卵</strong>を割り、混ぜる</li>
+  <li><strong>鶏肉</strong>、<strong>玉ねぎ</strong>、<strong>調味料</strong>を鍋で煮る</li>
+  <li>火が通ったら<strong>溶き卵</strong>を少し残して入れ、さっと全体に混ぜる</li>
+  <li>卵がほんのり固まってきたら残りの<strong>溶き卵</strong>も入れる</li>
+</ol>
+
+<h1 id="似た料理">似た料理</h1>
+<ul>
+  <li>卵とじ</li>
+  <li>かつ丼</li>
+</ul>]]></content><author><name>yuki_kamikita</name></author><category term="食事" /><category term="鶏肉" /><category term="卵" /><category term="玉ねぎ" /><category term="醤油" /><category term="砂糖" /><category term="みりん" /><category term="めんつゆ" /><category term="主食" /><category term="和食" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">みぞれ煮</title><link href="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E3%81%BF%E3%81%9E%E3%82%8C%E7%85%AE.html" rel="alternate" type="text/html" title="みぞれ煮" /><published>2025-02-04T12:00:00+00:00</published><updated>2025-02-04T12:00:00+00:00</updated><id>https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E3%81%BF%E3%81%9E%E3%82%8C%E7%85%AE</id><content type="html" xml:base="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E3%81%BF%E3%81%9E%E3%82%8C%E7%85%AE.html"><![CDATA[<p><img src="/kurashino/assets/images/mizoreni.jpg" alt="みぞれ煮" /></p>
+
+<h1 id="食材">食材</h1>
+<h3 id="メイン">メイン</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />鶏肉</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />なす</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />大根</li>
+</ul>
+
+<h3 id="アレンジ">アレンジ</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />しめじ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />なめこ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />厚揚げ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />さつまいも</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />かぼちゃ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />白菜</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ねぎ</li>
+</ul>
+
+<h1 id="調味料">調味料</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />めんつゆ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />醤油</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />砂糖</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ポン酢</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />だし</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />片栗粉</li>
+</ul>
+
+<h1 id="薬味">薬味</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />小口ねぎ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />大葉</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />生姜</li>
+</ul>
+
+<p><img src="/kurashino/assets/images/mizoreni_food.jpg" alt="みぞれ煮_食材" /></p>
+
+<h1 id="調理法">調理法</h1>
+<ol>
+  <li><strong>大根（先端～中央）</strong>をおろす（かなり多め）</li>
+  <li><strong>鶏肉</strong>を切り、<strong>片栗粉</strong>、<strong>塩胡椒</strong>をまぶす</li>
+  <li><strong>鶏肉</strong>、<strong>ナス</strong>、<strong>その他食材</strong>を切り、炒める</li>
+  <li><strong>調味料</strong>、<strong>大根おろし</strong>を加え、煮る</li>
+</ol>
+
+<h1 id="合わせやすい料理">合わせやすい料理</h1>
+<ul>
+  <li><a href="/kurashino/食事/鳥皮せんべい">鳥皮せんべい</a></li>
+</ul>]]></content><author><name>yuki_kamikita</name></author><category term="食事" /><category term="鶏肉" /><category term="大根" /><category term="なす" /><category term="めんつゆ" /><category term="和食" /><category term="主菜" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">ピーマンの肉詰め</title><link href="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E3%83%94%E3%83%BC%E3%83%9E%E3%83%B3%E3%81%AE%E8%82%89%E8%A9%B0%E3%82%81.html" rel="alternate" type="text/html" title="ピーマンの肉詰め" /><published>2025-02-02T13:00:00+00:00</published><updated>2025-02-02T13:00:00+00:00</updated><id>https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E3%83%94%E3%83%BC%E3%83%9E%E3%83%B3%E3%81%AE%E8%82%89%E8%A9%B0%E3%82%81</id><content type="html" xml:base="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E3%83%94%E3%83%BC%E3%83%9E%E3%83%B3%E3%81%AE%E8%82%89%E8%A9%B0%E3%82%81.html"><![CDATA[<p><img src="/kurashino/assets/images/piment_meet.jpg" alt="ピーマンの肉詰め" /></p>
+
+<h1 id="食材">食材</h1>
+<h3 id="メイン">メイン</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ピーマン</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ひき肉</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />玉ねぎ</li>
+</ul>
+
+<h1 id="調味料">調味料</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ソース</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />ケチャップ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />片栗粉</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />塩</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />胡椒</li>
+</ul>
+
+<h1 id="調理法">調理法</h1>
+<ol>
+  <li><strong>玉ねぎ</strong>をみじん切りにする</li>
+  <li><strong>ピーマン</strong>を半分に切り、種を取り除く</li>
+  <li><strong>ピーマン</strong>の内側に<strong>片栗粉</strong>をまぶす</li>
+  <li><strong>ひき肉</strong>、<strong>玉ねぎ</strong>、<strong>片栗粉</strong>を混ぜ、肉だねを作る</li>
+  <li><strong>肉だね</strong>を鍋に薄く伸ばしてハンバーグ状にして、<strong>塩</strong>、<strong>胡椒</strong>をふりかけ、その上に<strong>ピーマン</strong>を乗せる
+    <ul>
+      <li>厚いと火が通らないため、なるべくピーマンくらいの薄さにする</li>
+    </ul>
+  </li>
+  <li>蓋をして蒸し焼きにして肉の中まで火を通す</li>
+  <li>ピーマンの間でカットして、取り出す</li>
+  <li><strong>ケチャップ</strong>と<strong>ソース</strong>を混ぜ、火にかけ、デミグラスソース(?)を作る</li>
+</ol>
+
+<p><img src="/kurashino/assets/images/piment_meet_1.jpg" alt="ピーマンの肉詰め" /></p>]]></content><author><name>yuki_kamikita</name></author><category term="食事" /><category term="ピーマン" /><category term="ひき肉" /><category term="ソース" /><category term="ケチャップ" /><category term="塩" /><category term="胡椒" /><category term="和食" /><category term="主菜" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">味付き卵</title><link href="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E5%91%B3%E4%BB%98%E3%81%8D%E5%8D%B5.html" rel="alternate" type="text/html" title="味付き卵" /><published>2025-02-01T11:00:00+00:00</published><updated>2025-02-01T11:00:00+00:00</updated><id>https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E5%91%B3%E4%BB%98%E3%81%8D%E5%8D%B5</id><content type="html" xml:base="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E5%91%B3%E4%BB%98%E3%81%8D%E5%8D%B5.html"><![CDATA[<p><img src="/kurashino/assets/images/ajitama.jpg" alt="味付き卵" /></p>
+
+<h1 id="食材">食材</h1>
+<h3 id="メイン">メイン</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />卵</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />醤油</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />みりん</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />砂糖</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />チャック付きの袋</li>
+</ul>
+
+<h3 id="アレンジ">アレンジ</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />めんつゆ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />生姜</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />にんにく</li>
+</ul>
+
+<h1 id="調理法">調理法</h1>
+<ol>
+  <li><a href="/kurashino/食事/茹で卵">茹で卵</a>を作る</li>
+  <li>殻を剥いた<strong>茹で卵</strong>と<strong>調味料</strong>を<strong>袋</strong>に入れ、空気を抜く</li>
+  <li>数時間~1日程度冷蔵庫で寝かす</li>
+</ol>]]></content><author><name>yuki_kamikita</name></author><category term="食事" /><category term="卵" /><category term="醤油" /><category term="みりん" /><category term="砂糖" /><category term="副菜" /><category term="和食" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">茹で卵</title><link href="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E8%8C%B9%E3%81%A7%E5%8D%B5.html" rel="alternate" type="text/html" title="茹で卵" /><published>2025-02-01T11:00:00+00:00</published><updated>2025-02-01T11:00:00+00:00</updated><id>https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E8%8C%B9%E3%81%A7%E5%8D%B5</id><content type="html" xml:base="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E8%8C%B9%E3%81%A7%E5%8D%B5.html"><![CDATA[<p><img src="/kurashino/assets/images/yudetama.jpg" alt="茹で卵" /></p>
+
+<h1 id="食材">食材</h1>
+<h3 id="メイン">メイン</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />卵</li>
+</ul>
+
+<h1 id="調味料">調味料</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />塩</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />マヨネーズ</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />醤油</li>
+</ul>
+
+<h1 id="調理法">調理法</h1>
+<ol>
+  <li>鍋に湯を沸かす</li>
+  <li>強火のままで<strong>卵</strong>を入れる</li>
+  <li>強めの火で湯が沸いている状態を維持しながら好みの硬さまで茹でる</li>
+  <li>鍋の湯を捨て、水に入れ替えて冷ましてから、殻を剝く</li>
+</ol>
+
+<h1 id="茹で時間">茹で時間</h1>
+<p>黄身の固まり具合</p>
+
+<ul>
+  <li>5~6分: 黄身全体どろり</li>
+  <li>6~7分: 中心部分だけどろり（写真の状態）</li>
+  <li>7~9分: こぼれない程度に固まる（オレンジ寄りの色）</li>
+  <li>10分~: 完全に固まる（黄色寄りの色）</li>
+</ul>
+
+<h1 id="似た料理">似た料理</h1>
+<ul>
+  <li><a href="/kurashino/食事/卵焼き">卵焼き</a></li>
+  <li><a href="/kurashino/食事/目玉焼き">目玉焼き</a></li>
+  <li><a href="/kurashino/食事/味付き卵">味付き卵</a></li>
+  <li>タルタルソース</li>
+</ul>]]></content><author><name>yuki_kamikita</name></author><category term="食事" /><category term="卵" /><category term="塩" /><category term="マヨネーズ" /><category term="副菜" /><category term="和食" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">このもん</title><link href="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E3%81%93%E3%81%AE%E3%82%82%E3%82%93.html" rel="alternate" type="text/html" title="このもん" /><published>2025-02-01T08:00:00+00:00</published><updated>2025-02-01T08:00:00+00:00</updated><id>https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E3%81%93%E3%81%AE%E3%82%82%E3%82%93</id><content type="html" xml:base="https://yuki-kamikita.github.io/kurashino/%E9%A3%9F%E4%BA%8B/%E3%81%93%E3%81%AE%E3%82%82%E3%82%93.html"><![CDATA[<p><img src="/kurashino/assets/images/konomon.jpg" alt="このもん" /></p>
+
+<h1 id="食材">食材</h1>
+<h3 id="メイン">メイン</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />大根</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />醤油：１</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />砂糖：２～５程度</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />酢　：１</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />チャック付きの袋・瓶・タッパーなどの容器</li>
+</ul>
+
+<h3 id="アレンジ">アレンジ</h3>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />大根の葉</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />きゅうり</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />にんじん</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />白菜</li>
+</ul>
+
+<h1 id="薬味">薬味</h1>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />鷹の爪</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />大葉</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />塩昆布</li>
+</ul>
+
+<p><img src="/kurashino/assets/images/konomon_food.jpg" alt="このもん_食材" /></p>
+
+<h1 id="調理法">調理法</h1>
+<ol>
+  <li><strong>大根</strong>をいちょう切りにする</li>
+  <li>切った<strong>大根</strong>を天日・冷蔵庫などの風の当たるところで萎れるまで0.5~3日程度干す</li>
+  <li><strong>醤油</strong>、<strong>砂糖</strong>、<strong>酢</strong>を鍋に入れ、砂糖が溶けるまで火にかけ、冷まして、漬け汁を作る</li>
+  <li><strong>大根</strong>、<strong>漬け汁</strong>、<strong>その他全ての材料</strong>を容器に入れる</li>
+  <li>1日程度冷蔵庫で寝かす</li>
+</ol>
+
+<h1 id="似た料理">似た料理</h1>
+<ul>
+  <li><a href="/kurashino/食事/たくあん">たくあん</a>
+    <ul>
+      <li>醤油を塩に変えたやつ</li>
+    </ul>
+  </li>
+  <li>はりはり漬け
+    <ul>
+      <li>ぶっちゃけ同じ</li>
+      <li>細長く切って昆布が入ってるのをよく見る</li>
+    </ul>
+  </li>
+  <li><a href="https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hoshi_daikon_zuke_niigata.html">干し大根漬け - 農林水産省ウェブサイト</a></li>
+</ul>
+
+<h1 id="備考">備考</h1>
+<p>ばらかもんのやつ<br />
+<a href="https://www.kinokuniya.co.jp/f/dsg-08-9985436954">2巻</a>にレシピが載ってます</p>
+
+<p>漬物のことを香の物というらしく、それが訛ってこのもん、らしい<br />
+つまり漬物のことなのに「このもん」というとズバリこの組み合わせって浸透しているのはばらかもん効果なのか元からなのかわからけど個人的にはたぶんばらかもん効果だと思う</p>
+
+<p>たくあんの塩を醤油にしているので、水分量が増えている<br />
+そのため事前に干したり煮詰めたりして水分を飛ばすのが重要になりそう<br />
+干す前に切っている分、早く水分が飛ぶのは良い</p>]]></content><author><name>yuki_kamikita</name></author><category term="食事" /><category term="大根" /><category term="醤油" /><category term="砂糖" /><category term="酢" /><category term="和食" /><category term="副菜" /><summary type="html"><![CDATA[]]></summary></entry></feed>
